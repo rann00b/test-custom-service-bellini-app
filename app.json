@@ -1,0 +1,7 @@
+{
+  "name": "test-custom-service",
+  "type": "app",
+  "defaultPage": "home",
+  "externalScripts": [],
+  "externalStylesheets": []
+}
